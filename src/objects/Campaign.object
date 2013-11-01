@@ -298,6 +298,7 @@
         <availability>online</availability>
         <displayType>link</displayType>
         <hasMenubar>false</hasMenubar>
+        <encodingKey>UTF-8</encodingKey>
         <hasScrollbars>true</hasScrollbars>
         <hasToolbar>false</hasToolbar>
         <height>500</height>
